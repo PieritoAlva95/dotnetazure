@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99473cea-1224-4f67-9024-cbc1ba85f8b5/resourceGroups/helloworldazure/providers/Microsoft.Web/sites/helloworldunlazure",
+    "appService.deploySubpath": "bin\\Debug\\netcoreapp2.2\\publish"
+}
